@@ -11,11 +11,9 @@
             "id": "e744d0e1f8603aab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Lennes.md",
-                "mode": "source",
-                "source": false
+                "file": "University MS.C/Computational Geometry/Presentations/illustration.png"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ca26835439d5d2ed",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Lennes.md",
+                "file": "University MS.C/Computational Geometry/Presentations/illustration.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Lennes.md",
+                "file": "University MS.C/Computational Geometry/Presentations/illustration.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Lennes.md"
+                "file": "University MS.C/Computational Geometry/Presentations/illustration.png"
               }
             }
           }
@@ -149,10 +146,17 @@
   },
   "active": "e744d0e1f8603aab",
   "lastOpenFiles": [
+    "University MS.C/Computational Geometry/Presentations/illustration 1.png",
+    "University MS.C/Computational Geometry/Presentations/illustration.png",
+    "University MS.C/Computational Geometry/DBerg/Chapter 1-Notes.md",
+    "University MS.C/Computational Geometry/DBerg/Chapter0-Question3b-Answer.md",
+    "University MS.C/Computational Geometry/DBerg/Chapter0-Question2-Answer.md",
     "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Chazelle.md",
     "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Lennes.md",
+    "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Seidel.md",
+    "Figure4.png",
+    "Trapezoidal.png",
     "illustration 1.png.md",
-    "University MS.C/Computational Geometry/Presentations/illustration.png",
     "illustration 1.png",
     "illustration.png",
     "University MS.C/Computational Geometry/Presentations"
