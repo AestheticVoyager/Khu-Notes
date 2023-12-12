@@ -1,3 +1,4 @@
+#CG 
 # Triangulating a polygon in O(n log*n)
 In 1991, Seidel found a practical algorithm for triangulating polygons with an expected running time of O (n log*n). 
 The algorithm can triangulate any set of overlapping and self-intersecting polygons and lines in the plane with near-linear expected time.

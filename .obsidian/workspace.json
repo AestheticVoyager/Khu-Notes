@@ -11,9 +11,11 @@
             "id": "e744d0e1f8603aab",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "University MS.C/Computational Geometry/Presentations/illustration.png"
+                "file": "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University MS.C/Computational Geometry/Presentations/illustration.png",
+                "file": "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University MS.C/Computational Geometry/Presentations/illustration.png",
+                "file": "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University MS.C/Computational Geometry/Presentations/illustration.png"
+                "file": "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md"
               }
             }
           }
@@ -146,14 +148,23 @@
   },
   "active": "e744d0e1f8603aab",
   "lastOpenFiles": [
-    "University MS.C/Computational Geometry/Presentations/illustration 1.png",
-    "University MS.C/Computational Geometry/Presentations/illustration.png",
-    "University MS.C/Computational Geometry/DBerg/Chapter 1-Notes.md",
-    "University MS.C/Computational Geometry/DBerg/Chapter0-Question3b-Answer.md",
-    "University MS.C/Computational Geometry/DBerg/Chapter0-Question2-Answer.md",
-    "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Chazelle.md",
-    "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Lennes.md",
+    "University MS.C/Computational Geometry/Slide Notes/Chapter 2.md",
+    "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md",
     "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Seidel.md",
+    "University MS.C/Computational Geometry/Slide Notes/Chapter 1.md",
+    "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Lennes.md",
+    "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Chazelle.md",
+    "University MS.C/Advanced Algorithm/Counting sort.md",
+    "University MS.C/Advanced Algorithm/knapsack-problem/Introduction to Knapsack Problem, its Types and How to solve them.md",
+    "University MS.C/Computational Geometry/DBerg/Chapter 1-Notes.md",
+    "University MS.C/Computational Geometry/DBerg/Chapter0-Question2-Answer.md",
+    "University MS.C/Computational Geometry/DBerg/Chapter0-Question3b-Answer.md",
+    "Deepfake detection.md",
+    "University MS.C/Computational Geometry/Slide Notes",
+    "convex-verification.png",
+    "convex_polygon_verification.png",
+    "University MS.C/Computational Geometry/Presentations/illustration.png",
+    "University MS.C/Computational Geometry/Presentations/illustration 1.png",
     "Figure4.png",
     "Trapezoidal.png",
     "illustration 1.png.md",

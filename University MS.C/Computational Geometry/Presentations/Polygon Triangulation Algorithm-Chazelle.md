@@ -1,4 +1,4 @@
-
+#CG
 # Triangulating a simple polygon in linear time
 [**Bernard Chazelle**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjUuZyBn7WCAxWFxgIHHWENB70QFnoECCIQAQ&url=https%3A%2F%2Fwww.cs.princeton.edu%2F~chazelle%2F&usg=AOvVaw21UQXRvLZSKJswAcOV4wW5&opi=89978449)
 
@@ -49,7 +49,7 @@ The immediate dilemma is that to find such diagonal appears just as difficult as
 
 Besides, we would actually need to find such a diagonal in sub-linear amortized time to keep our hopes for an optimal triangulation algorithm alive.
 
-A bottom-up approach, on the other hand, involves computing say, triangulations oof sub-pieces of the polygon’s boundary.
+A bottom-up approach, on the other hand, involves computing say, triangulations of sub-pieces of the polygon’s boundary.
 
 This suffers from the obvious flaw that too much information gets to be computed.
 

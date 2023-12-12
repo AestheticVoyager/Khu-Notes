@@ -1,3 +1,4 @@
+#CG
 To find the largest axis-parallel square inside a convex polygon \( P \) with \( n \) vertices, you can use a binary search approach to efficiently determine the maximum side length of the square. Here's a high-level outline of the algorithm:
 
 1. **Preprocessing:**

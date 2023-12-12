@@ -1,3 +1,4 @@
+#CG
 Good solutions to algorithmic problems of a geometric nature are mostly based on two ingredients.
 One is a through understanding of the geometric properties of the problem, the other is a proper application of algorithmic techniques and data structures.
 
