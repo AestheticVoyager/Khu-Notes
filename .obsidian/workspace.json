@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md",
+                "file": "University MS.C/Advanced Algorithm/Slides/Sorts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md",
+                "file": "University MS.C/Advanced Algorithm/Slides/Sorts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md",
+                "file": "University MS.C/Advanced Algorithm/Slides/Sorts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md"
+                "file": "University MS.C/Advanced Algorithm/Slides/Sorts.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "e744d0e1f8603aab",
   "lastOpenFiles": [
-    "University MS.C/Computational Geometry/Slide Notes/Chapter 2.md",
     "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md",
+    "University MS.C/Advanced Algorithm/Slides/Sorts.md",
+    "University MS.C/Advanced Algorithm/Slides",
+    "University MS.C/Computational Geometry/Slide Notes/Chapter 2.md",
     "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Seidel.md",
     "University MS.C/Computational Geometry/Slide Notes/Chapter 1.md",
     "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Lennes.md",
