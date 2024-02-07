@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University MS.C/Advanced Algorithm/Slides/Sorts.md",
+                "file": "University MS.C/Machine Learning/notes/svm-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University MS.C/Advanced Algorithm/Slides/Sorts.md",
+                "file": "University MS.C/Machine Learning/notes/svm-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University MS.C/Advanced Algorithm/Slides/Sorts.md",
+                "file": "University MS.C/Machine Learning/notes/svm-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University MS.C/Advanced Algorithm/Slides/Sorts.md"
+                "file": "University MS.C/Machine Learning/notes/svm-01.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "e744d0e1f8603aab",
   "lastOpenFiles": [
-    "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md",
     "University MS.C/Advanced Algorithm/Slides/Sorts.md",
+    "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md",
     "University MS.C/Advanced Algorithm/Slides",
     "University MS.C/Computational Geometry/Slide Notes/Chapter 2.md",
     "University MS.C/Computational Geometry/Presentations/Polygon Triangulation Algorithm-Seidel.md",
