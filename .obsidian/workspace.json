@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98e6ceaa2ce87a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University MS.C/Computational Data Mining/References.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University MS.C/Machine Learning/notes/svm-01.md",
+                "file": "University MS.C/Computational Data Mining/References.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University MS.C/Machine Learning/notes/svm-01.md",
+                "file": "University MS.C/Computational Data Mining/References.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University MS.C/Machine Learning/notes/svm-01.md"
+                "file": "University MS.C/Computational Data Mining/References.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e744d0e1f8603aab",
+  "active": "98e6ceaa2ce87a2b",
   "lastOpenFiles": [
+    "University MS.C/Computational Data Mining/References.md",
+    "University MS.C/Computational Data Mining",
     "University MS.C/Advanced Algorithm/Slides/Sorts.md",
     "University MS.C/Computational Geometry/Slide Notes/Chapter2-b.md",
     "University MS.C/Advanced Algorithm/Slides",
